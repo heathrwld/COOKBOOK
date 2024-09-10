@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @heathrwld
- <a href="landing.html">COOKBOOK</a>
+ <a href="heathrwld.github.io/cookbook/landing.html">COOKBOOK</a>
